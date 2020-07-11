@@ -1,0 +1,4 @@
+baseURL = "https://takapy0210.github.io/portfolio_v2/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishDir = "docs"
