@@ -66,9 +66,6 @@ social:
 - icon: microphone-alt
   icon_pach: fas
   link: https://anchor.fm/geek-engineer-future
-# - icon: lapras
-#   icon_pach: custom
-#   link: https://anchor.fm/geek-engineer-future
 - icon: blog
   icon_pach: fas
   link: https://www.takapy.work/
