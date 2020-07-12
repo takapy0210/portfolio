@@ -18,48 +18,48 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "python"
-  parcent = "90%"
+  parcent = ""
 
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
   name = "docker"
-  parcent = "70%"
+  parcent = ""
 
 [[feature]]
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-  parcent = "75%"
+  parcent = ""
 
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS"
-  parcent = "70%"
+  parcent = ""
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "linux"
-  parcent = "70%"
+  parcent = ""
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "mysql/oracle"
-  parcent = "80%"
+  parcent = ""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Analysis"
-  parcent = "70%"
+  parcent = ""
 
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
   name = "Leadership"
-  parcent = "70%"
+  parcent = ""
 
 +++
