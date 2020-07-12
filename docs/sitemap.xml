@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://takapy0210.github.io/portfolio/tags/pandas/</loc>
+    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://takapy0210.github.io/portfolio/posts/</loc>
     <lastmod>2020-07-12T17:23:58+09:00</lastmod>
   </url>
@@ -33,16 +38,17 @@
   </url>
   
   <url>
+    <loc>https://takapy0210.github.io/portfolio/tags/</loc>
+    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://takapy0210.github.io/portfolio/</loc>
     <lastmod>2020-07-12T17:23:58+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://takapy0210.github.io/portfolio/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/tags/</loc>
   </url>
   
 </urlset>
