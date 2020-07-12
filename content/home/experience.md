@@ -6,11 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006-01-02"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -18,36 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Machine Learning Engineer"
+  company = "Connehito Inc."
+  company_url = "https://connehito.com/"
+  location = "Tokyo"
+  date_start = "2019-03-01"
   date_end = ""
   description = """
+  Responsible for community censorship and content recommendation systems using machine learning.
+
   Responsibilities include:
-  
+  * Issue Design
   * Analysing
   * Modelling
   * Deploying
+  * Effectiveness verification
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "System Engineer"
+  company = "SIer"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tokyo"
+  date_start = "2013-04-01"
+  date_end = "2019-02-28"
+  description = """
+  Responsible for the implementation of EPR packages for the manufacturing industry.
+
+  Responsibilities include:
+  * Requirement Definition
+  * Development
+  * Introduction
+  * Operation and Maintenance
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-  
+  title = "Students"
+  company = "University of Yamanashi"
+  company_url = "https://www.yamanashi.ac.jp/"
+  location = "Yamanashi"
+  date_start = "2009-04-01"
+  date_end = "2013-03-31"
+  description = """
+  * Department of Computer and Media Engineering
+  * Head of the Special Planning Department, Executive Committee
+  """
+
 +++
