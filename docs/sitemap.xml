@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://takapy0210.github.io/portfolio/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://takapy0210.github.io/portfolio/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -69,6 +64,11 @@
   
   <url>
     <loc>https://takapy0210.github.io/portfolio/talk/synthesizing/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
