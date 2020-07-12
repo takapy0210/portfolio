@@ -35,6 +35,7 @@ interests:
 - Recommendation
 - ML Ops
 - Causal Inference
+- Statistics
 - Product Growth
 - AWS
 - kaggle
