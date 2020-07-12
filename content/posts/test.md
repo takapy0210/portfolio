@@ -1,13 +1,16 @@
 ---
-title: Display Jupyter Notebooks with academia
-subtitle: Learn how to blog in academia using Jupyter notebooks
-summary: Learn how to blog in academia using Jupyter notebooks
+title: sample title
+subtitle: sample subtitle
+summary: sample summary
 authors:
 - admin
-tags: []
-categories: []
+tags: [sample ml NLP]
+categories: [python]
 date: 2020-07-12T17:23:58+09:00
 featured: false
-draft: true
+draft: false
 ---
 
+# タイトル
+
+こちらが本文
