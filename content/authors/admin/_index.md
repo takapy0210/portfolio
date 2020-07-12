@@ -21,6 +21,8 @@ organizations:
 - name: Connehito Inc.
   url: "https://connehito.com/"
 
+title: Biography
+
 # Short bio (displayed in user profile at end of posts)
 bio: I work as a machine learning engineer. I'm interested in implementing machine learning in society and growing services.
 
@@ -31,6 +33,7 @@ interests:
 - Artificial Intelligence
 - NLP
 - Recommendation
+- ML Ops
 - Causal Inference
 - Product Growth
 - AWS
