@@ -64,4 +64,16 @@ date_format = "2006-01-02"
   * Head of the Special Planning Department, Executive Committee
   """
 
+[[experience]]
+  title = "Students"
+  company = "Suwa Futaba High School"
+  company_url = "https://www.nagano-c.ed.jp/futaba/"
+  location = "Nagano"
+  date_start = "2006-04-01"
+  date_end = "2009-03-31"
+  description = """
+  * General course
+  * Baseball club
+  """
+
 +++
