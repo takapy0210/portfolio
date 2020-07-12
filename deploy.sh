@@ -15,7 +15,8 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 git add .
 
 # Commit changes.
-msg="rebuilding site $(date)"
+# msg="rebuilding site $(date)"
+msg="rebuilding $(date '+%Y/%m/%d %T')"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
