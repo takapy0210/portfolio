@@ -24,7 +24,7 @@ organizations:
 title: Biography
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work as a machine learning engineer. I'm interested in implementing machine learning in society and growing services.
+# bio: I work as a machine learning engineer. I'm interested in implementing machine learning in society and growing services.
 
 # Should the user's education and interests be displayed?
 display_education: True

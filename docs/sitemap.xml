@@ -3,48 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://takapy0210.github.io/portfolio/authors/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
+    <loc>https://takapy0210.github.io/portfolio/post/</loc>
+    <lastmod>2020-07-12T18:18:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takapy0210.github.io/portfolio/authors/admin/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/categories/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/tags/pandas/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/posts/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/categories/python/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/posts/jupyter/test/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/tags/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
+    <loc>https://takapy0210.github.io/portfolio/post/first-post/</loc>
+    <lastmod>2020-07-12T18:18:19+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://takapy0210.github.io/portfolio/</loc>
-    <lastmod>2020-07-12T17:23:58+09:00</lastmod>
+    <lastmod>2020-07-12T18:18:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/post/snail/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/tags/academia/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/categories/</loc>
   </url>
   
   <url>

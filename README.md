@@ -2,7 +2,7 @@
 https://takapy0210.github.io/portfolio/
 
 ## localhost
-http://localhost:1313/
+http://localhost:1313/portfolio/
 
 ## cf
 - https://sourcethemes.com/academic/docs/
