@@ -29,8 +29,10 @@ display_education: True
 
 interests:
 - Artificial Intelligence
-- Service Growth
+- NLP
+- Recommendation
 - Causal Inference
+- Product Growth
 - AWS
 - kaggle
 
