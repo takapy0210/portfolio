@@ -66,9 +66,12 @@ social:
 - icon: microphone-alt
   icon_pach: fas
   link: https://anchor.fm/geek-engineer-future
-# - icon: blog
-#   icon_pach: fas
-#   link: https://www.takapy.work/
+# - icon: lapras
+#   icon_pach: custom
+#   link: https://anchor.fm/geek-engineer-future
+- icon: blog
+  icon_pach: fas
+  link: https://www.takapy.work/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
