@@ -1,7 +1,7 @@
 ---
 # Display name
 name: 野澤 哲照 （Takanobu Nozawa）
-avatar_image: "plofile.jpg"
+avatar_image: "plofile.png"
 # Username (this should match the folder name)
 authors:
 - admin
