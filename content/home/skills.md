@@ -57,9 +57,9 @@ subtitle = ""
   parcent = ""
 
 [[feature]]
-  icon = "user-secret"
-  icon_pack = "fas"
-  name = "Leadership"
+  icon = "slack"
+  icon_pack = "fab"
+  name = "slack"
   parcent = ""
 
 +++
