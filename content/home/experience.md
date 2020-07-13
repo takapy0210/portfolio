@@ -29,9 +29,10 @@ date_format = "2006-01-02"
 
   Responsibilities include:
   * Issue Design
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data analysis
+  * Mathematical modeling
+  * Development
+  * MLOps
   * Effectiveness verification
   """
 
@@ -60,7 +61,8 @@ date_format = "2006-01-02"
   date_start = "2009-04-01"
   date_end = "2013-03-31"
   description = """
-  * Department of Computer and Media Engineering
+  Details:
+  * Bachelor of Science in Information Technology
   * Head of the Special Planning Department, Executive Committee
   """
 
@@ -72,8 +74,10 @@ date_format = "2006-01-02"
   date_start = "2006-04-01"
   date_end = "2009-03-31"
   description = """
+  Details:
   * General course
   * Baseball club
+  * "Rakugo" study associations
   """
 
 +++

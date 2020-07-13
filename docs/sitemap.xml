@@ -4,36 +4,26 @@
   
   <url>
     <loc>https://takapy0210.github.io/portfolio/authors/</loc>
-    <lastmod>2020-07-12T22:56:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://takapy0210.github.io/portfolio/authors/admin/</loc>
-    <lastmod>2020-07-12T22:56:38+09:00</lastmod>
+    <loc>https://takapy0210.github.io/portfolio/authors/adminbk/</loc>
   </url>
   
   <url>
-    <loc>https://takapy0210.github.io/portfolio/post/</loc>
-    <lastmod>2020-07-12T22:56:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/post/second-post/</loc>
-    <lastmod>2020-07-12T22:56:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/</loc>
-    <lastmod>2020-07-12T22:56:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takapy0210.github.io/portfolio/post/first-post/</loc>
-    <lastmod>2020-07-12T18:18:19+09:00</lastmod>
+    <loc>https://takapy0210.github.io/portfolio/authors/takapy/</loc>
   </url>
   
   <url>
     <loc>https://takapy0210.github.io/portfolio/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/project/lapras/</loc>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/project/</loc>
   </url>
   
   <url>
@@ -42,6 +32,14 @@
   
   <url>
     <loc>https://takapy0210.github.io/portfolio/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://takapy0210.github.io/portfolio/project/tech-blog/</loc>
   </url>
   
 </urlset>
